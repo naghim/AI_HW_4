@@ -26,7 +26,7 @@ ___
 ___
 
 # Task
-Solve the travelling salesman problem using an evolutionary method. So given a list of cities, let’s find the shortest way to reach all the other cities and arrive at the strating city. Use an evolutionary framework.
+Solve the travelling salesman problem using an evolutionary method. So given a list of cities, let’s find the shortest way to reach all the other cities and arrive at the starting city. Use an evolutionary framework.
 
 ## Solution
 The framework I chose is the DEAP framework. Since the solution of TSP can be found among the sample codes of the framework, I solved it with another solution and not with the structure suggested by the sample code.
